@@ -6,6 +6,6 @@ int main()
 	scanf("%d" ,&m);
 	for(int i=1;i<=m;i++)
 	if (i%2==0)
-	printf("%d\n",i);
+	printf(" even:%d\n",i);
 	return 0;
 }
